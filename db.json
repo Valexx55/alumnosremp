@@ -1,4 +1,4 @@
- "alumno": [
+{"alumno": [
     {
         "id": 1,
         "nombre": "Juan",
@@ -50,3 +50,4 @@
         "links": []
     }
 ]
+}
